@@ -27,3 +27,6 @@ hs_err_pid*
 
 # Mac File
 .DS_Store
+
+# System Option File
+application.properties
